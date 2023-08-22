@@ -1,1 +1,1 @@
-# advent_calendar
+Welcome to the Advent of Code Solutions repository! [Advent of Code](https://adventofcode.com/) is an annual programming challenge created by Eric Wastl. It's essentially an Advent calendar of small, fun programming puzzles.
